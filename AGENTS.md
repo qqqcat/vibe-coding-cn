@@ -3,7 +3,7 @@
 ## Project Structure & Module Organization
 - 根目录：`README.md` 给出全貌，`Makefile` 封装日常命令，`CONTRIBUTING.md` 说明贡献流程，`LICENSE` 载明协议。保持根目录扁平，避免巨石文件。
 - 多语言 i18n：`i18n/<lang>/` 统一三层结构（documents / prompts / skills）。现有语言：中文 `zh`、英文 `en`、希伯来语 `he`，以及高频/常用的 `es`、`hi`、`ar`、`pt`、`ru`、`fr`、`de`、`ja`、`ko`、`it`、`tr`、`nl`、`pl`、`id`、`vi`、`th`、`fa`、`uk`、`bn`、`ta`、`ur`、`ms`、`sw`、`ha`；新增语言遵循同样层级。
-- 文档库：`i18n/zh/documents/` 仍是默认中文方法论入口（如 `i18n/zh/documents/Templates and Resources/代码组织.md` 等），新增语言文档按需在对应 `documents/` 下创建并保持同步。
+- 文档库：`i18n/zh/documents/` 仍是默认中文方法论入口（如 `i18n/zh/documents/模板与资源/代码组织.md` 等），新增语言文档按需在对应 `documents/` 下创建并保持同步。
 - 提示词资产：`i18n/zh/prompts/` 按角色拆分（system / assistant / coding / user），`libs/external/prompts-library/` 提供 Excel ↔ Markdown 互转工具与脚本目录，便于批量维护提示词，适合作为“单一真实来源”。
 - 代码与集成：`libs/` 预留核心实现骨架，`common/`、`database/`、`external/` 分别对应通用模型、存储适配与外部依赖登记；新增模块需保持分层边界与单一职责，避免跨层调用。
 - 备份：`backups/` 内含 `一键备份.sh` 与 `快速备份.py`，用于本地快照或同步，请先在隔离目录试跑，确认输出路径与权限。
@@ -18,7 +18,7 @@
 - 文字层：文档、注释、日志使用中文；代码符号（函数 / 变量 / 模块）统一英文且语义直白，避免晦涩缩写。
 - 缩进与排版：全仓保持空格缩进（2 或 4 空格任选其一但不得混用）；Markdown 列表、代码块与表格对齐清晰，行宽控制在 120 列内。Git diff 可读性优先。
 - 设计品味：优先消除分支与重复；函数力求单一职责且短小；命名遵循小写加中划线或下划线，不使用空格与特殊字符；跨模块接口保持稳定签名。
-- 依赖管理：新增工具或库时记录安装方式、最小版本与来源，必要时在 `i18n/zh/documents/Templates and Resources/工具集.md` 或 README 中补充，并说明为何需要它（性能、兼容、功能）。
+- 依赖管理：新增工具或库时记录安装方式、最小版本与来源，必要时在 `i18n/zh/documents/模板与资源/工具集.md` 或 README 中补充，并说明为何需要它（性能、兼容、功能）。
 
 ## Testing Guidelines
 - 当前无实测用例；引入代码时请至少提供最小可复现测试。推荐 Python 使用 `pytest`，文件命名 `test_*.py`，夹具精简可读，遵循 red-green-refactor 循环。

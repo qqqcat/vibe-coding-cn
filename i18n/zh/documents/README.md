@@ -8,7 +8,11 @@
 i18n/zh/documents/
 ├── README.md
 │
-├── Methodology and Principles/
+├── 从零开始vibecoding/          # 🚀 新手入门必读
+│   ├── 01-网络环境配置.md
+│   └── 02-开发环境搭建.md
+│
+├── 方法论与原则/
 │   ├── A Formalization of Recursive Self-Optimizing Generative Systems.md
 │   ├── gluecoding.md
 │   ├── vibe-coding-经验收集.md
@@ -18,14 +22,14 @@ i18n/zh/documents/
 │   ├── 胶水编程.md
 │   └── 系统提示词构建原则.md
 │
-├── Tutorials and Guides/
+├── 教程与指南/
 │   ├── auggie-mcp配置文档.md
 │   ├── LazyVim快捷键大全.md
 │   ├── tmux快捷键大全.md
 │   ├── 关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md
 │   └── telegram-dev/
 │
-└── Templates and Resources/
+└── 模板与资源/
     ├── 代码组织.md
     ├── 工具集.md
     ├── 编程书籍推荐.md
@@ -34,7 +38,14 @@ i18n/zh/documents/
 
 ## 文档分类
 
-### Methodology and Principles
+### 🚀 从零开始vibecoding（新手入门）
+
+完全零基础？从这里开始！
+
+*   [01-网络环境配置](./从零开始vibecoding/01-网络环境配置.md) - 配置网络访问
+*   [02-开发环境搭建](./从零开始vibecoding/02-开发环境搭建.md) - 搭建开发环境（提示词版）
+
+### 方法论与原则
 
 此类别存放关于编程思想、开发哲学和项目核心原则的文档。
 
@@ -47,7 +58,7 @@ i18n/zh/documents/
 *   `胶水编程.md`
 *   `系统提示词构建原则.md`
 
-### Tutorials and Guides
+### 教程与指南
 
 此类别存放具体工具的配置、使用指南和操作教程。
 
@@ -57,7 +68,7 @@ i18n/zh/documents/
 *   `关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md`
 *   `telegram-dev/`
 
-### Templates and Resources
+### 模板与资源
 
 此类别存放可复用的项目模板、代码结构规范和资源列表。
 

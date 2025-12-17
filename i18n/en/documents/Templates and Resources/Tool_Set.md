@@ -1,6 +1,5 @@
-TRANSLATED CONTENT:
-ide与插件；vscode ，Windsurf（白嫖用），闪电说（输出用），Continue - open-source AI code agent，Local History，Partial Diff
+IDE and Plugins; VSCode, Windsurf (for free use), Sparkle Talk (for output), Continue - open-source AI code agent, Local History, Partial Diff
 
-模型；codex，gemini，kimik2，grok
+Models; Codex, Gemini, KimiK2, Grok
 
-网站；https://aistudio.google.com/；https://zread.ai/；https://chatgpt.com/；https://github.com；https://www.bilibili.com；https://www.mermaidchart.com/app/dashboard；https://notebooklm.google.com/；https://z-lib.fm/；https://docs.google.com/spreadsheets/u/0/；https://script.google.com/home?pli=1
+Websites; https://aistudio.google.com/; https://zread.ai/; https://chatgpt.com/; https://github.com; https://www.bilibili.com; https://www.mermaidchart.com/app/dashboard; https://notebooklm.google.com/; https://z-lib.fm/; https://docs.google.com/spreadsheets/u/0/; https://script.google.com/home?pli=1

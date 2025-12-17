@@ -1,152 +1,151 @@
-TRANSLATED CONTENT:
-# z-lib 里面全部都可以免费下载
+# All available for free download on z-lib
 
-从零开始大模型开发与微调：基于PyTorch与ChatGLM - 王晓华
+From Zero to Large Model Development and Fine-tuning: Based on PyTorch and ChatGLM - Wang Xiaohua
 
-编程的原则：改善代码质量的101个方法 - 上田勋
+The Principles of Programming: 101 Ways to Improve Code Quality - Isao Ueda
 
-生成式 AI 设计模式 - Valliappa Lakshmanan & Hannes Hapke
+Generative AI Design Patterns - Valliappa Lakshmanan & Hannes Hapke
 
-人月神话 - 弗雷德里克·布鲁克斯
+The Mythical Man-Month - Frederick Brooks
 
-人件（原书第3版） - Tom DeMarco & Timothy Lister
+Peopleware (3rd Edition) - Tom DeMarco & Timothy Lister
 
-高效程序员的45个习惯：敏捷开发修炼之道 - Andy Hunt & Venkat Subramaniam
+The 45 Habits of Highly Effective Programmers: Agile Development Practice - Andy Hunt & Venkat Subramaniam
 
-项目管理修炼之道 - 罗斯曼
+The Art of Project Management Practice - Rothman
 
-编程珠玑（续） - 乔恩·本特利
+Programming Pearls (Continued) - Jon Bentley
 
-编程珠玑（第2版） - 乔恩·本特利
+Programming Pearls (2nd Edition) - Jon Bentley
 
-编程原则：来自代码大师Max Kanat-Alexander的建议（让简约设计的思想回归到计算机编程，适合软件开发者、开发团队管理者和软件相关专业学生阅读） （华章程序员书库） - Max Kanat-Alexande
+Programming Principles: Advice from Code Master Max Kanat-Alexander (Bringing the idea of minimalist design back to computer programming, suitable for software developers, development team managers, and students majoring in software-related fields) (Huazhang Programmer Library) - Max Kanat-Alexander
 
-编写可读代码的艺术 - Dustin Boswell & Trevor Foucher
+The Art of Readable Code - Dustin Boswell & Trevor Foucher
 
-统计思维：程序员数学之概率统计（第2版） - Allen B.Downey
+Statistical Thinking: Probability and Statistics for Programmers (2nd Edition) - Allen B. Downey
 
-精通Rust（第2版） - Rahul Sharma & Vesa Kaihlavirta
+Mastering Rust (2nd Edition) - Rahul Sharma & Vesa Kaihlavirta
 
-程序员超强大脑（图灵程序设计丛书·程序员修炼系列） - 费莉安·赫尔曼斯
+Programmer's Super Brain (Turing Programming Series: Programmer's Cultivation Series) - Felian Hermans
 
-程序员必读之软件架构 - Simon Brown
+Software Architecture for Programmers - Simon Brown
 
-程序员修炼之道：专业程序员必知的33个技巧 - Josh·Carter
+The Pragmatic Programmer: Thirty-three Tips for Professional Developers - Josh Carter
 
-看漫画学Python：有趣、有料、好玩、好用 - 关东升
+Learn Python with Comics: Fun, Informative, Interesting, and Useful - Guan Dongsheng
 
-混沌工程：通过可控故障实验提升软件系统可靠性 - 米科拉吉·帕利科夫斯基_1
+Chaos Engineering: Improving Software System Reliability Through Controlled Fault Experiments - Mikolaj Palikowski_1
 
-深入理解Python特性 - 达恩·巴德尔
+Deep Dive into Python Features - Dann Bader
 
-微服务实战（覆盖从微服务设计到部署的各个阶段的技术实战书）（异步图书） - 摩根·布鲁斯 & 保罗·A·佩雷拉
+Microservices in Action (A practical book covering technical practices from microservice design to deployment) (Async Books) - Morgan Bruce & Paul A. Pereira
 
-大数据系统构建：可扩展实时数据系统构建原理与最佳实践 - NathanMarz & JamesWarren
+Building Big Data Systems: Principles and Best Practices for Building Scalable Real-time Data Systems - Nathan Marz & James Warren
 
-图解性能优化（图灵程序设计丛书） - 小田圭二 & 榑松谷仁 & 平山毅 & 冈田宪昌
+Illustrated Performance Optimization (Turing Programming Series) - Keiji Oda & Jin Kurematsutani & Takeshi Hirayama & Norichika Okada
 
-图灵程序设计丛书：大规模数据处理入门与实战（套装全10册）【图灵出品！一套囊括SQL、Python、Spark、Hadoop、妮哈·纳克海德 & 格温·沙皮拉托德 & 帕利诺 & 本杰明·班福特 & 珍妮·基姆 & 埃伦·弗里德曼 & 科斯塔斯·宙马斯
+Turing Programming Series: Large-Scale Data Processing Introduction and Practice (Set of 10 Books) [Turing Edition! A set encompassing SQL, Python, Spark, Hadoop, Neha Narkhede & Gwen Shapira Todd & Palino & Benjamin Banford & Jenny Kim & Ellen Friedman & Kostas Tzoumas
 
-代码整洁之道 - Robert C. Martin
+Clean Code - Robert C. Martin
 
-代码之髓：编程语言核心概念（图灵程序设计丛书） - 西尾泰和
+The Essence of Code: Core Concepts of Programming Languages (Turing Programming Series) - Taiwa Nishio
 
-人人都懂设计模式：从生活中领悟设计模式 - 罗伟富
+Design Patterns for Everyone: Understanding Design Patterns from Real Life - Luo Weifu
 
-Rust权威指南（第2版） - Steve Klabnik & Carol Nichols
+The Rust Programming Language (2nd Edition) - Steve Klabnik & Carol Nichols
 
-Python金融大数据分析（第2版） - 伊夫·希尔皮斯科
+Python for Financial Big Data Analysis (2nd Edition) - Yves Hilpisch
 
-Python科学计算基础教程 - Hemant Kumar Mehta_1
+Python Scientific Computing Fundamentals Tutorial - Hemant Kumar Mehta_1
 
-Python数据挖掘入门与实践 - Robert Layton
+Python Data Mining Introduction and Practice - Robert Layton
 
-Python数据分析与算法指南（套装共8册） - 江雪松 & 邹静 & 邓立国 & 翟锟 & 胡锋 & 周晓然 & 王国平 & 白宁超 & 唐聃 & 文俊 & 张若愚 & 洪锦魁
+Python Data Analysis and Algorithm Guide (Set of 8 Books) - Jiang Songsong & Zou Jing & Deng Liguo & Zhai Kun & Hu Feng & Zhou Xiaoran & Wang Guoping & Bai Ningchao & Tang Dan & Wen Jun & Zhang Ruoyu & Hong Jinkui
 
-Python性能分析与优化 - Fernando Doglio
+Python Performance Analysis and Optimization - Fernando Doglio
 
-Python函数式编程（第2版）（图灵图书） - 史蒂文·洛特_1
+Python Functional Programming (2nd Edition) (Turing Books) - Steven Lott_1
 
-GPT时代的量化交易：底层逻辑与技术实践 - 罗勇 & 卢洪波_1
+Quantitative Trading in the GPT Era: Underlying Logic and Technical Practice - Luo Yong & Lu Hongbo_1
 
-ChatGPT数据分析实践 - 史浩然 & 赵辛 & 吴志成
+ChatGPT Data Analysis Practice - Shi Haoran & Zhao Xin & Wu Zhicheng
 
-AI时代Python金融大数据分析实战：ChatGPT让金融大数据分析插上翅膀 - 关东升
+AI Era Python Financial Big Data Analysis Practice: ChatGPT Makes Financial Big Data Analysis Soar - Guan Dongsheng
 
-跨市场交易策略 - John J. Murphy
+Cross-Market Trading Strategies - John J. Murphy
 
-资产定价与机器学习 - 吴轲
+Asset Pricing and Machine Learning - Wu Ke
 
-工程思维 - 马克 N. 霍伦斯坦
+Engineering Thinking - Marc N. Holenstein
 
-程序员的思维修炼：开发认知潜能的九堂课（图灵程序设计丛书） - Andy Hunt
+The Programmer's Brain: Develop Cognitive Potential with Nine Lessons (Turing Programming Series) - Andy Hunt
 
-程序员修炼之道：通向务实的最高境界（第2版）【这本书颠覆了无数人的软件生涯！并推动整个IT行业走到今天！时隔20年的再版重磅来袭！】 -  大卫·托马斯 & 安德鲁·亨特
+The Pragmatic Programmer: Your Journey to Mastery (2nd Edition) [This book has revolutionized countless software careers! And propelled the entire IT industry to where it is today! A heavy-hitting re-release after 20 years!] - David Thomas & Andrew Hunt
 
-不确定状况下的判断：启发式和偏差 - 丹尼尔·卡尼曼
+Thinking, Fast and Slow (original: Judgment Under Uncertainty: Heuristics and Biases) - Daniel Kahneman
 
-简约之美：软件设计之道 - Max Kanant-Alexander
+The Beauty of Simplicity: The Art of Software Design - Max Kanant-Alexander
 
-程序员的底层思维 - 张建飞
+The Programmer's Underlying Logic - Zhang Jianfei
 
-程序员的三门课：技术精进、架构修炼、管理探秘 - 于君泽
+The Programmer's Three Courses: Technical Advancement, Architecture Cultivation, Management Exploration - Yu Junze
 
-机器学习系统设计（图灵程序设计丛书） - Willi Richert & Luis Pedro Coelho
+Machine Learning System Design (Turing Programming Series) - Willi Richert & Luis Pedro Coelho
 
-思维工程导论 - 钱小一
+Introduction to Mind Engineering - Qian Xiaoyi
 
-算法精粹：经典计算机科学问题的Python实现 - David Kopec
+Algorithmic Essentials: Python Implementations of Classic Computer Science Problems - David Kopec
 
-函数式编程思维 (图灵程序设计丛书) - Neal Ford
+Functional Programming Thinking (Turing Programming Series) - Neal Ford
 
-Python函数式编程（第2版）（图灵图书） - 史蒂文·洛特
+Python Functional Programming (2nd Edition) (Turing Books) - Steven Lott
 
-Effective Python 编写高质量Python代码的90个有效方法（原书第2版） (Effective系列丛书) - Brett Slatkin
+Effective Python: 90 Specific Ways to Write Better Python (2nd Edition) (Effective Series) - Brett Slatkin
 
-高频交易（原书第2版） - Irene Aldridge
+High-Frequency Trading (2nd Edition) - Irene Aldridge
 
-高频交易员：华尔街的速度游戏 - 迈克尔·刘易斯
+Flash Boys: A Wall Street Revolt - Michael Lewis
 
-金融学原理（第6版） - 彭兴韵
+Principles of Finance (6th Edition) - Peng Xinyun
 
-聪明投资者的第一本金融学常识书 - 肖玉红
+Financial Literacy for the Smart Investor - Xiao Yuhong
 
-可视化量化金融 - Michael Lovelady
+Visualizing Quantitative Finance - Michael Lovelady
 
-GPT时代的量化交易：底层逻辑与技术实践 - 罗勇 & 卢洪波
+Quantitative Trading in the GPT Era: Underlying Logic and Technical Practice - Luo Yong & Lu Hongbo
 
-图灵经典计算机基础系列（套装全4册） -  矢泽久雄 & 户根勤 & 平泽章
+Turing Classic Computer Science Series (Set of 4 Books) - Hisao Yazawa & Tsutomu Togen & Takeshi Hirayama & Norichika Okada
 
-软件开发的201个原则 - Alan M· Davis
+201 Principles of Software Development - Alan M. Davis
 
-程序员的AI书：从代码开始 - 张力柯 & 潘晖
+The Programmer's AI Book: Starting from Code - Zhang Like & Pan Hui
 
-计算的本质：深入剖析程序和计算机 - Tom Stuart
+The Nature of Computation: An In-depth Look at Programs and Computers - Tom Stuart
 
-程序员投资指南 -  Stefan Papp
+The Programmer's Investment Guide - Stefan Papp
 
-精通正则表达式（第3版） - Jeffrey E.F.Friedl
+Mastering Regular Expressions (3rd Edition) - Jeffrey E.F. Friedl
 
-巧用ChatGPT进行数据分析与挖掘 - 谢佳标
+Leveraging ChatGPT for Data Analysis and Mining - Xie Jiabiao
 
-工业人工智能三部曲（套装共三册）（世界一流的智能制造专家著作合辑）（2016年被美国制造工程师学会（SME）评选为“美国30位最有远见的智能制造人物”） - 李杰
+Industrial AI Trilogy (Set of 3 Books) (Collection of Works by World-Class Intelligent Manufacturing Experts) (Named "30 Most Visionary Intelligent Manufacturing Figures in the US" by SME in 2016) - Li Jie
 
-从零构建大模型：算法、训练与微调 - 梁楠
+Building Large Models from Scratch: Algorithms, Training, and Fine-tuning - Liang Nan
 
-Vibe Coding_ Building Production-Grade Software With GenAI, Chat, Agents, and Beyond - Gene Kim & Steve Yegge
+Vibe Coding: Building Production-Grade Software With GenAI, Chat, Agents, and Beyond - Gene Kim & Steve Yegge
 
-Vibe Coding AI 编程完全手册 - 谭星星
+Vibe Coding AI Programming Manual - Tan Xingxing
 
-计算机科学概论（第13版） - J. 格伦·布鲁克希尔 & 丹尼斯·布里罗
+Computer Science: An Overview (13th Edition) - J. Glenn Brookshear & Dennis Brylow
 
-Pro Git （中文版） - Scott Chacon & Ben Straub
+Pro Git (Chinese Edition) - Scott Chacon & Ben Straub
 
-像程序员一样思考 - V.Anton Spraul
+Think Like a Programmer - V. Anton Spraul
 
-Python核心编程（第3版） - Wesley Chun_1
+Core Python Programming (3rd Edition) - Wesley Chun_1
 
-AI 工程：从基础模型建构应用 - Chip Huyen
+AI Engineering: Building Applications from Foundation Models - Chip Huyen
 
-AI辅助编程实战 - 汤姆·陶利
+AI-Assisted Programming in Practice - Tom Taulli
 
-编码：隐匿在计算机软硬件背后的语言 - Charles Petzold
+Code: The Hidden Language of Computer Hardware and Software - Charles Petzold
